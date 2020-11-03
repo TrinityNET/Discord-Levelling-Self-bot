@@ -1,5 +1,5 @@
 # Discord-Levelling-Self-bot
-Works for any levelling system that works in intervals.
+Works for any levelling system that works in intervals. Or that doesn't.
 
 First, you will need node.js installed. You can get a free VM from Google Cloud to passively run the selfbot in the background.
 
