@@ -9,4 +9,6 @@ Once node.js is installed, open the config.json and replace the token value with
 
 There is also an array called msgArray. You can modify this list to say different words/phrases. It selects a random one when sending the message.
 
+Make sure you unzip the node_modules file.
+
 Snap - ctos07.
